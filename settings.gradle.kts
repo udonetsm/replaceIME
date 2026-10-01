@@ -23,5 +23,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Replace Input Method Behavior for OxygenOS"
+rootProject.name = "ReplaceIME"
 include(":app")
